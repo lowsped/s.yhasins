@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ACER PC\.android\build-cache\128027e2577644b15812a9d1647e387515e43a1b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="D:\source android studio\Alquran-master\app\build\intermediates\pre-dexed\debug\classes_4b2620fd9159bfc7b386d77389d59ead46bf8e4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ACER PC\.android\build-cache\06a8f94117f3fb8c9bce54bec1a5ace4bb75fce6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="D:\source android studio\Alquran-master\app\build\intermediates\pre-dexed\debug\classes_baff2a43c91b2c8467110d19d7f6091e04d24450.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ACER PC\.android\build-cache\ab219989745f7b96bee9d072bd28d4902aa76f9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f909161e9bac1dd36538a275f06cae462082316a">
+        <dex dex="D:\source android studio\Alquran-master\app\build\intermediates\pre-dexed\debug\classes_11ba2de08993f568c6aa34e9b44daad1cbb7d1ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ACER PC\.android\build-cache\85843644ecc5c6cb494c1873947b13fd9f4c28dc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="D:\source android studio\Alquran-master\app\build\intermediates\pre-dexed\debug\classes_e229885f636e59e69d5cf4b3b07e8cbc2d477707.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ACER PC\.android\build-cache\32c7b04a566ae8d87f68960e71db9dd1c8525af7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="587840a157b50a6380d814a7a5a87b76118405e2">
+        <dex dex="D:\source android studio\Alquran-master\app\build\intermediates\pre-dexed\debug\classes_3508fbb43536cbcec5b96497ce4bd9e068c43e31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ACER PC\.android\build-cache\9bf39f09586c0907650c9d50f8036b71f80e5220\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="acd4f9fad8500386084346a88ca47e2b66e84ffd">
+        <dex dex="D:\source android studio\Alquran-master\app\build\intermediates\pre-dexed\debug\classes_1e86c343666fccf42a060512a311f6b0a177d03d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ACER PC\.android\build-cache\7525315d825089e448bb7dceac3223a0696255b8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4737d9835cf3ea9751f7d6647be60900062d1062">
+        <dex dex="D:\source android studio\Alquran-master\app\build\intermediates\pre-dexed\debug\classes_8c17304c46924462933ee94901f241fee57e3570.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ACER PC\.android\build-cache\0a12bb6268a2152c23e34869755a58e1789b447c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5493a7c08b74d424d08a23c68334893cfd2d5ee3">
+        <dex dex="D:\source android studio\Alquran-master\app\build\intermediates\pre-dexed\debug\classes_bafc98f8c5e107da2313516e3252dedaa5f7f830.jar" />
+    </item>
+
+</items>
